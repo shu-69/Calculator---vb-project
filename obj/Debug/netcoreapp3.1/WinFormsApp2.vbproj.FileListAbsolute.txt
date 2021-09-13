@@ -1,0 +1,16 @@
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.vbproj.AssemblyReference.cache
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Form1.resources
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.vbproj.GenerateResource.cache
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.vb
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.vbproj.CoreCompileInputs.cache
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Resources.resources
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+D:\projects\Visual Basics\calc\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache

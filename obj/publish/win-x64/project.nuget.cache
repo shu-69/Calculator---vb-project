@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0m2AoAgIbNkImHtnF1vR/ij52HY8ts98g3hBjm1d6Ux+IKIul2Nw17u6quoMycZk9+Zb2TObuKLjUo4KdWLlrg==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\Visual Basics\\calc\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shubh\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.16\\microsoft.netcore.app.runtime.win-x64.3.1.16.nupkg.sha512",
+    "C:\\Users\\shubh\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.16\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.16.nupkg.sha512",
+    "C:\\Users\\shubh\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.16\\microsoft.aspnetcore.app.runtime.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
